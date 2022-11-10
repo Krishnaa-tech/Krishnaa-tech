@@ -1,4 +1,4 @@
 - 👋 Hi, I’m `@KrishGoyal`
 - 👀 I’m interested in Data Science and Analysis
 - 🌱 I’m currently learning Data Science at Christ University
-- 📫 For contacting, mail : goyal.krish0522@gmail.com
+- 📫 For contacting, mail : krish.goyal@bds.christuniversity.in | goyal.krish0522@gmail.com
