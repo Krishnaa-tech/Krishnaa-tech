@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+![](https://visitor-badge.glitch.me/badge?page_id=krishnaa-tech)
+
 ## I'm a Second Year `BSc Data Science` Student 
 
 - 🏢 Work: Data Analyst
