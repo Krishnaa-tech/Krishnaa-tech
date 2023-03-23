@@ -9,7 +9,7 @@
 - 🏢 Work: Data Analyst
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Research and Development
 - 💪🏼 Motivated to learn, and grow and inspire as many possible along the way.
-- ⚡ Hobbies: Reading Blogs, Trecking, Food.
+- ⚡ Hobbies: Reading Blogs, Trekking, Food.
 
 ---
 ### Connect with me 📝
