@@ -43,7 +43,33 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Krishnaa-tech&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-tech&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasleen101010&theme=radical&cache_seconds=30&hide_border=true"/>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasleen101010&theme=radical"  />
+</p>
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 15 May 2021 - To: 01 June 2023
+
+Total Time: 36 hrs 9 mins
+
+HTML         12 hrs 13 mins  >>>>>>>>-----------------   33.82 %
+Java         8 hrs 34 mins   >>>>>>-------------------   23.72 %
+EJS          6 hrs 11 mins   >>>>---------------------   17.11 %
+Python       4 hrs 35 mins   >>>----------------------   12.70 %
+Markdown     2 hrs 38 mins   >>-----------------------   07.32 %
+CSS          37 mins         -------------------------   01.73 %
+Other        31 mins         -------------------------   01.46 %
+JavaScript   19 mins         -------------------------   00.92 %
+Text         19 mins         -------------------------   00.92 %
+CSV          2 mins          -------------------------   00.11 %
+```
+
+<!--END_SECTION:waka-->
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/gk321
@@ -51,5 +77,5 @@
 
 ---
 
-Last Edited on: March 2023
+Last Edited on: June 2023
 
