@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=krishnaa-tech)
+![](https://visitor-badge.glitch.me/badge?page_id=Krishnaa-tech)
 
 ## I'm a Second Year `BSc Data Science` Student 
 
@@ -41,10 +41,8 @@
 <h2> Github Statistics 📈 </h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Krishnaa-tech&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-tech&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats.vercel.app/api?)username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-tech&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa-tech&theme=radical&cache_seconds=30&hide_border=true"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnaa-tech&theme=radical"  />
