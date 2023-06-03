@@ -4,7 +4,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Krishnaa-tech)
 
-## I'm a Second Year `BSc Data Science` Student 
+## I'm a Third Year `BSc Data Science` Student 
 
 - 🏢 Work: Data Analyst
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Research and Development
