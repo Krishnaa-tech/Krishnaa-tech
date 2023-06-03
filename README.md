@@ -44,10 +44,10 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-tech&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleen101010&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasleen101010&theme=radical&cache_seconds=30&hide_border=true"/>
+<img src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats.vercel.app/api?)username=jasleen101010&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-tech&langs_count=4&layout=compact&theme=radical&count_private=true" alt="languages" height="165">
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa-tech&theme=radical&cache_seconds=30&hide_border=true"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasleen101010&theme=radical"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnaa-tech&theme=radical"  />
 </p>
 
 <!--START_SECTION:waka-->
