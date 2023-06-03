@@ -51,6 +51,12 @@
 
 [linkedin]: https://www.linkedin.com/in/gk321
 [email]: <mailto: goyal.krish0522@gmail.com>
+---
+
+<!--START_SECTION:waka-->
+```txt
+```
+<!--END_SECTION:waka-->
 
 ---
 
