@@ -4,12 +4,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Krishnaa-tech)
 
-## I'm a Third Year `BSc Data Science` Student 
+## I'm a Third Year `BSc Data Science` Student
 
 - 🏢 Work: Data Analyst
-- 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Research and Development
-- 💪🏼 Motivated to learn, and grow and inspire as many possible along the way.
-- ⚡ Hobbies: Reading Blogs, Trekking, Food.
+- 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Methodologies, Research and Development
+- 💪🏼 Motivated to learn, grow and inspire as much possible along the way.
+- ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
 
 ---
 ### Connect with me 📝
@@ -74,7 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 16 June 2023
+From: 02 June 2023 - To 16 June 2023
 
 Total Time: 0 secs
 
