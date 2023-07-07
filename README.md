@@ -2,7 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=Krishnaa-tech)
+<div style="text-align:center;">
+  <img src="https://komarev.com/ghpvc/?username=krishnaa-tech&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaa-tech" />
+</div>
 
 ## I'm a Third Year `BSc Data Science` Student
 
@@ -67,6 +69,11 @@
 </p>
 <br/>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=krishnaa-tech&theme=onedark" alt="krishnaa-tech" />
+  </a> 
+  
 [linkedin]: https://www.linkedin.com/in/gk321
 [email]: <mailto: goyal.krish0522@gmail.com>
 ---
