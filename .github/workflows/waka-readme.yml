@@ -1,22 +1,16 @@
-name: Waka Readme
+name: Wakatime Charts
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
