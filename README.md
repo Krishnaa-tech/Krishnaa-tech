@@ -10,7 +10,7 @@
 
 - 🏢 Work: Data Analyst
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Methodologies, Research and Development
-- 💪🏼 Motivated to learn, grow and inspire as much possible along the way.
+- 💪🏼 Motivated to learn, grow and inspire as much as possible along the way.
 - ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
 
 ---
@@ -82,5 +82,5 @@
 
 ---
 
-Last Edited on: July 2023
+Last Edited on: Aug 2023
 
