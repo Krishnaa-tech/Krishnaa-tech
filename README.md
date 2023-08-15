@@ -1,18 +1,23 @@
 # Hi there <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<div style="display: flex; justify-content: flex-end;text-align: right;">
+  <img style="margin-left: auto;" src="https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="GDSC Logo"> 
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150" />
+</div>
 
-<div style="text-align:center;">
+<div style="text-align:left;"> 
   <img src="https://komarev.com/ghpvc/?username=krishnaa-tech&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaa-tech" />
 </div>
 
-## I'm a Third Year `BSc Data Science` Student
+
+## I'm a Third Year `BSc Data Science` Student 		 
 
 - 🏢 Work: Data Analyst
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Methodologies, Research and Development
-- 💪🏼 Motivated to learn, grow and inspire as much as possible along the way.
+- 💪🏼 Motivated to learn, grow and inspire as much as possible.
 - ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
-
+- 🧑‍🎓 Currently GDSC Lead at CHRIST(Deemed to be University) - Pune Lavasa 
+  
 ---
 ### Connect with me 📝
 
