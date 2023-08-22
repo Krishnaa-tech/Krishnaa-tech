@@ -63,13 +63,17 @@
 <h2> Github Statistics 📈 </h2>
 
 <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishnaa-tech&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishnaa-tech&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/></p>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishnaa-tech&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/></p> -->
 <p>
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa-tech&theme=radical&cache_seconds=30&hide_border=true"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnaa-tech&theme=radical"/>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krishnaa-tech&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krishnaa-tech&theme=dracula)
 </p>
-<br/>
+
+
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -87,5 +91,14 @@
 
 ---
 
+
+
+
+
 Last Edited on: Aug 2023
 
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/3173znppjgcv7kvcodycbyj4jd5i)
