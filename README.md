@@ -12,8 +12,8 @@
 
 ## I'm a Third Year `BSc Data Science` Student 		 
 
-- 🏢 Work: Data Analyst
-- 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Methodologies, Research and Development
+- 🏢 Work: Python Full Stack Developer
+- 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Engineering Methodologies, Research and Development
 - 💪🏼 Motivated to learn, grow and inspire as much as possible.
 - ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
 - 🧑‍🎓 Currently GDSC Lead at CHRIST(Deemed to be University) - Pune Lavasa 
@@ -56,7 +56,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ---
 
 
