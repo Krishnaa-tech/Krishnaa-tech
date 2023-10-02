@@ -16,8 +16,8 @@
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Engineering Methodologies, Research and Development
 - 💪🏼 Motivated to learn, grow and inspire as much as possible.
 - ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
-- 🧑‍🎓 Currently Google DSC Lead'23 at CHRIST(Deemed to be University) - Pune Lavasa 
-- 🧑‍🎓 Currently Geeks for Geeks Student Chapter President at CHRIST(Deemed to be University) - Pune Lavasa 
+- 🧑‍🎓 Currently `Google DSC Lead'23` at CHRIST(Deemed to be University) - Pune Lavasa 
+- 🧑‍🎓 Currently `Geeks for Geeks Student Chapter President` at CHRIST(Deemed to be University) - Pune Lavasa 
 ---
 ### Connect with me 📝
 
