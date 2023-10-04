@@ -80,6 +80,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=krishnaa-tech&theme=onedark" alt="krishnaa-tech" />
   </a> 
   
+  
+![svg](https://raw.githubusercontent.com/Krishnaa-tech/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+
 [linkedin]: https://www.linkedin.com/in/gk321
 [email]: <mailto: goyal.krish0522@gmail.com>
 ---
