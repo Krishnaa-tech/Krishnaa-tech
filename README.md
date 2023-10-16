@@ -12,7 +12,7 @@
 
 ## I'm a Third Year `BSc Data Science` Student 		 
 
-- 🏢 Work: Python Full Stack Developer
+- 🏢 Work: Aspiring Data Scientist
 - 👨‍💻 Interested in technologies like  Data Science, Machine Learning, Image Processing, Cloud Computing, Software Engineering Methodologies, Research and Development
 - 💪🏼 Motivated to learn, grow and inspire as much as possible.
 - ⚡ Hobbies: Reading Blogs, Listening to Songs, Food.
