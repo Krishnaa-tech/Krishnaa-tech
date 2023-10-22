@@ -81,11 +81,13 @@
   </a> 
   
   
-![svg](https://raw.githubusercontent.com/Krishnaa-tech/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+![svg](https://github.com/Krishnaa-tech/Krishnaa-tech/blob/860f6a4026e58a1de495122ac46fb5f519e92610/profile-3d-contrib/profile-green-animate.svg)
+
+
 
 [linkedin]: https://www.linkedin.com/in/gk321
 [email]: <mailto: goyal.krish0522@gmail.com>
----
+
 
 
 <!--START_SECTION:waka-->
