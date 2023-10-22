@@ -63,7 +63,7 @@
 <h2> Github Statistics 📈 </h2>
 
 <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishnaa-tech&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krishnaa-tech&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/></p> -->
+
 <p>
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnaa-tech&theme=radical&cache_seconds=30&hide_border=true"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krishnaa-tech&theme=radical"/>
@@ -109,7 +109,6 @@ GDScript3        1 hr 5 mins     ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Last Edited on: Sep 2023
 
 
 <br>
