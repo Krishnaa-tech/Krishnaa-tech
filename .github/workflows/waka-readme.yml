@@ -13,28 +13,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: athul/athul
-          # content
           SHOW_TITLE: true
-          SECTION_NAME: waka
           BLOCKS: ->
-          CODE_LANG: all_time 
-          TIME_RANGE: true
-          LANG_COUNT: 10
+          TIME_RANGE: all_time
           SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          # commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: Krish
-          AUTHOR_EMAIL: goyal.krish0522@gmail.com
-          # you can populate email-id with secretes instead
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
