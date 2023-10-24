@@ -93,20 +93,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 21 October 2023
+From: 02 June 2023 - To: 22 October 2023
 
-Total Time: 117 hrs 23 mins
+Total Time: 119 hrs 3 mins
 
-Python           61 hrs 5 mins   █████████████░░░░░░░░░░░░   52.04 %
-HTML             28 hrs 13 mins  ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Assembly         6 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Prolog           3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-CSS              3 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Other            2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-GDScript         1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-ActionScript     1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GDScript3        1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python           61 hrs 41 mins  █████████████░░░░░░░░░░░░   51.82 %
+HTML             29 hrs 17 mins  ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+Assembly         6 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Prolog           3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+CSS              3 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Other            2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+GDScript         1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+ActionScript     1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+GDScript3        1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
