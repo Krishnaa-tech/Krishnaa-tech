@@ -93,11 +93,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 04 February 2024
+From: 02 June 2023 - To: 05 February 2024
 
-Total Time: 243 hrs 1 min
+Total Time: 243 hrs 2 mins
 
-Python           156 hrs 42 mins ████████████████░░░░░░░░░   64.48 %
+Python           156 hrs 43 mins ████████████████░░░░░░░░░   64.49 %
 HTML             45 hrs 31 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
 JavaScript       8 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 Assembly         7 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
