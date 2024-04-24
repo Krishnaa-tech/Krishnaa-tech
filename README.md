@@ -57,17 +57,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 21 April 2024
+From: 02 June 2023 - To: 22 April 2024
 
-Total Time: 286 hrs 12 mins
+Total Time: 287 hrs 44 mins
 
-Python           194 hrs 7 mins  █████████████████░░░░░░░░   67.82 %
-HTML             45 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-JavaScript       11 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Assembly         7 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-CSS              5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Python           195 hrs 39 mins █████████████████░░░░░░░░   68.00 %
+HTML             45 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JavaScript       11 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Assembly         7 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+CSS              5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 Prolog           3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other            2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other            2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 GDScript         2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Bash             1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Text             1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
