@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 20 May 2024
+From: 02 June 2023 - To: 21 May 2024
 
-Total Time: 300 hrs 28 mins
+Total Time: 300 hrs 32 mins
 
-Python           208 hrs 11 mins █████████████████▒░░░░░░░   69.28 %
+Python           208 hrs 14 mins █████████████████▒░░░░░░░   69.29 %
 HTML             45 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-JavaScript       11 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JavaScript       11 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 Assembly         7 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 CSS              5 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Prolog           3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
