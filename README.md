@@ -42,7 +42,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaa-tech" alt="krishnaa-tech" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaa-tech" alt="krishnaa-tech" /></a> </p> -->
   
   
 ![svg](https://github.com/Krishnaa-tech/Krishnaa-tech/blob/860f6a4026e58a1de495122ac46fb5f519e92610/profile-3d-contrib/profile-green-animate.svg)
